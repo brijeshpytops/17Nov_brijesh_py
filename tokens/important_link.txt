@@ -1,0 +1,7 @@
+git and github learn from scratch :
+
+https://youtu.be/Ez8F0nW6S-w?si=Yj_y52VGUOMTMh5X
+
+PEP8:
+
+https://peps.python.org/pep-0008/
